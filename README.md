@@ -4,14 +4,14 @@
 </div>  
   
 
-# <div align="center">Frontend Developer (Vue) / BFF</div>
+# <div align="center">Frontend Developer</div>
 
-# <div align="center">Hi 👋! I'm Nasirov Abdurahim. I'm frontend developer from Uzbekistan with love</div>
+# <div align="center">Hi 👋! I'm Nasirov Abdulloh. I'm frontend developer from Uzbekistan with love</div>
 
 <br />
 
 - 🌱 I’m currently learning Testings, e2e, Integration tests, Functional tests, etc.
-- ✉️ How to reach me [abdurahimnasirov123@gmail.com](mailto:abdurahimnasirov123@gmail.com)
+- ✉️ How to reach me [abdurahimnasirov123@gmail.com](nosirovabdulloh581@gmail.com)
 
 <br/>
 
@@ -24,8 +24,6 @@
 <div align="center">
 
 <img style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-
-<img style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
  
 <img style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
 
@@ -35,20 +33,6 @@
 
 <img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50"/>
 
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-<img style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-
-<img style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
- 
-<img style="margin: 10px;" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 </div>
 
 </td>
