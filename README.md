@@ -11,7 +11,7 @@
 <br />
 
 - 🌱 I’m currently learning Testings, e2e, Integration tests, Functional tests, etc.
-- ✉️ How to reach me [abdurahimnasirov123@gmail.com](nosirovabdulloh581@gmail.com)
+- ✉️ How to reach me [nosirovabdulloh581@gmail.com](nosirovabdulloh581@gmail.com)
 
 <br/>
 
