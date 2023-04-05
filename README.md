@@ -43,16 +43,9 @@
 <div align="center">  
 <img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 
-<img style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-
 <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="gitlab" width="50" height="50"/>
 
-<img style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-
 <img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-
-<img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
-</div>
 
 </td>
 </tr>
