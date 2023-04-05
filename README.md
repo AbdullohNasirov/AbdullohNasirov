@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Abdulloh Nasirov <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47j2zjih2yvq0qhfjahkh9ozhj9r6eyzo7v54v01ps&rid=giphy.gif&ct=s" width="30px">
 
 <!--
 **AbdullohNasirov/AbdullohNasirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
