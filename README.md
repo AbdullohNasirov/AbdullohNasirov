@@ -15,6 +15,7 @@
 
 <br/>
 
+<div style="display: flex; justify-content: center;">
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -48,7 +49,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 <br/>
 
 <div align="center">
